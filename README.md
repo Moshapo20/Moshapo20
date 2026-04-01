@@ -46,7 +46,6 @@
 ## 🧩 Core Focus Areas
 - AI Automation Systems (AutoStacker)
 - SaaS & Micro-SaaS Development
-- Trading Systems & Bots
 - Content Automation (YouTube, Media)
 
 ---
@@ -58,8 +57,6 @@ AI-powered system that builds and monetizes automated content + affiliate funnel
 🔹 **AI Content Engine**  
 Generates scripts, visuals, and voiceovers for faceless YouTube channels.
 
-🔹 **News Trading Bot**  
-Executes pre-news volatility strategies using automation logic.
 
 🔹 **Micro SaaS Experiments**  
 Rapid prototypes targeting real-world problems.
