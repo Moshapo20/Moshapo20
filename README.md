@@ -1,4 +1,4 @@
-<h1 align="center">🐐Moshapo ⚡</h1>
+<h1 align="center">🐐 Moshapo ⚡</h1>
 <h3 align="center">AI Systems Builder • Automation Engineer • Digital Infrastructure</h3>
 
 <p align="center">
@@ -66,6 +66,22 @@ Rapid prototypes targeting real-world problems.
 
 ---
 
+## 📊 Current Mission
+- Build **multiple income-generating systems**
+- Launch **scalable SaaS products**
+- Master **AI + automation leverage**
+
+---
+
+## 📈 My Stats
+<p align="center">
+  ![Moshapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moshapo20&show_icons=true&theme=radical&hide=contribs)
+</p>
+
+
+
+---
+
 ## 📫 Contact & Socials
 Open to collaborations, partnerships, and building high-impact systems.  
 
@@ -74,7 +90,7 @@ Open to collaborations, partnerships, and building high-impact systems.
 <a href="https://www.linkedin.com/in/marope-moshapo" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
+<a href="https://profiles.topcoder.com/Moshapo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40" /></a>
 </p>
 
 ---
@@ -90,13 +106,6 @@ Open to collaborations, partnerships, and building high-impact systems.
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
-
----
-
-## 📊 Current Mission
-- Build **multiple income-generating systems**
-- Launch **scalable SaaS products**
-- Master **AI + automation leverage**
 
 ---
 
