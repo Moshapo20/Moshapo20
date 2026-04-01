@@ -71,12 +71,6 @@ Rapid prototypes targeting real-world problems.
 - Launch **scalable SaaS products**
 - Master **AI + automation leverage**
 
----
-
-## 📈 My Stats
-<p align="center">
-  ![Moshapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moshapo20&show_icons=true&theme=radical&hide=contribs)
-</p>
 
 
 
